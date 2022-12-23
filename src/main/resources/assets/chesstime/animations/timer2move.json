@@ -1,0 +1,20 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"timer2.chesstimermodel.mod": {
+			"animation_length": 0.75,
+			"bones": {
+				"bone2": {
+					"position": {
+						"0.0417": {
+							"vector": [0, 0, 0]
+						},
+						"0.0833": {
+							"vector": [0, -1, 0]
+						}
+					}
+				}
+			}
+		}
+	}
+}
